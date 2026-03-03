@@ -1,1 +1,2 @@
-# kiranaaaa
+# letter-project
+"jangan cuekin aku."
